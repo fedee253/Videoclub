@@ -21,8 +21,6 @@
       "estado": ""
     }
   ],
-
-
   "peliculas": [
     {
       "id": 1,
@@ -30,9 +28,9 @@
       "descripcion": "Director Antoine Fuqua reunites with Denzel Washington in this sequel to 2014's The Equalizer. Washington resumes his role as Robert McCall: a retired CIA Black Ops operative who works as a security guard and moonlights as a vigilante. When his long-time friend Melissa Leo Susan Plummer) is murdered, he embarks on a relentless, globe-trotting quest for vengeance.",
       "imagen": "https://img.yts.am/assets/images/movies/the_equalizer_2_2018/medium-cover.jpg",
       "genero": "Action / Crime / Thriller",
-      "alquilada": false,
+      "alquilada": true,
       "valoracion": 0,
-      "cantidadAlquileres": 0
+      "cantidadAlquileres": 1
     },
     {
       "id": 2,
@@ -82,8 +80,17 @@
       "genero": "Horror / Sci-Fi",
       "alquilada": true,
       "valoracion": 0,
-      "cantidadAlquileres": 1
+      "cantidadAlquileres": 0
+    },
+    {
+      "id": 7,
+      "titulo": "Mile 22",
+      "descripcion": "In a visceral modern thriller from the director of Lone Survivor, Mark Wahlberg stars as James Silva, an operative of the CIA's most highly-prized and least-understood unit. Aided by a top-secret tactical command team, Silva must retrieve and transport an asset who holds life-threatening information to Mile 22 for extraction before the enemy closes in.",
+      "imagen": "https://img.yts.am/assets/images/movies/mile_22_2018/medium-cover.jpg",
+      "genero": "Action / Adventure / Crime / Thriller",
+      "alquilada": false,
+      "valoracion": 0,
+      "cantidadAlquileres": 0
     }
   ]
-  
 }
