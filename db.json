@@ -1,86 +1,89 @@
 {
-  "peliculas": [
+  "usuarios": [
     {
       "id": 1,
-      "titulo": "el herrero y el diablo",
-      "descripcion": "Han pasado 10 años desde de la primera Guerra Carlista de 1833. En un pequeño pueblo de Álava, un comisario del gobierno llamado Alfredo investiga un suceso que le lleva hasta una herrería en lo profundo del bosque, donde vive un siniestro y solitario herrero llamado Patxi. Los aldeanos de la zona cuentan oscuras historias sobre él relacionadas con robos, asesinatos y pactos demoníacos. Hasta que por casualidad una niña huérfana llamada Usue consigue colarse en la misteriosa herrería, destapando la terrible verdad que se esconde tras Patxi el Herrero.",
-      "imagen": "https://pbs.twimg.com/media/DVDVrFBWsAEgInd.jpg",
-      "genero": "Fantasia",
-      "alquilada": false,
-      "valoracion": 0,
-      "cantidadAlquileres": 1
+      "nombre": "Federico",
+      "apellido": "Sartori",
+      "usuario": "admin",
+      "contrasena": "admin",
+      "telefono": "3434589645",
+      "correo": "fedesart@hotmail.com",
+      "estado": ""
     },
     {
       "id": 2,
-      "titulo": "el cadaver de la novia",
-      "descripcion": "En un pequeño, triste y reprimido pueblo victoriano, dos tímidos jóvenes están a punto de casarse - aunque no se han visto nunca antes .Los burdos y arribistas magnates de las conservas de pescado Nell y William Van Dort (con las voces de Tracey Ullman y Paul Whitehouse) siempre han soñado con formar parte de la alta sociedad - pero si bien no les falta riqueza, carecen por completo de la clase necesaria.",
-      "imagen": "https://http2.mlstatic.com/dvd-el-cadaver-de-la-novia-tim-burton-D_NQ_NP_438421-MCO20783436240_062016-F.jpg",
-      "genero": "Fantasia-Terror-Romantico",
+      "nombre": "Nicolas Alejandro",
+      "apellido": "Lopez",
+      "usuario": "user",
+      "contrasena": "user",
+      "telefono": "3434596854",
+      "correo": "nicolaslopez@hotmail.com",
+      "estado": ""
+    }
+  ],
+
+
+  "peliculas": [
+    {
+      "id": 1,
+      "titulo": "The Equalizer 2",
+      "descripcion": "Director Antoine Fuqua reunites with Denzel Washington in this sequel to 2014's The Equalizer. Washington resumes his role as Robert McCall: a retired CIA Black Ops operative who works as a security guard and moonlights as a vigilante. When his long-time friend Melissa Leo Susan Plummer) is murdered, he embarks on a relentless, globe-trotting quest for vengeance.",
+      "imagen": "https://img.yts.am/assets/images/movies/the_equalizer_2_2018/medium-cover.jpg",
+      "genero": "Action / Crime / Thriller",
+      "alquilada": false,
+      "valoracion": 0,
+      "cantidadAlquileres": 0
+    },
+    {
+      "id": 2,
+      "titulo": "Possum",
+      "descripcion": "After returning to his childhood home, a disgraced children's puppeteer is forced to confront his wicked stepfather and the secrets that have tortured his entire life.",
+      "imagen": "https://img.yts.am/assets/images/movies/possum_2018/medium-cover.jpg",
+      "genero": "Drama / Horror / Thriller",
       "alquilada": false,
       "valoracion": 0,
       "cantidadAlquileres": 0
     },
     {
       "id": 3,
-      "titulo": "Los miserables",
-      "descripcion": "La película narra la historia de Jean Valjean (Hugh Jackman, 'X-Men') y su particular camino de redención, desde sus días como prisionero en una cárcel hasta convertirse, con otra identidad, en alcalde de una ciudad francesa. Vlajean se hará cargo de la hija ilegítima de una mujer, Fantine (Anne Hathaway",
-      "imagen": "https://m.media-amazon.com/images/M/MV5BMTQ4NDI3NDg4M15BMl5BanBnXkFtZTcwMjY5OTI1OA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
-      "genero": "Historico-Drama-Musical",
+      "titulo": "American Exorcist",
+      "descripcion": "A paranormal investigator, trapped in a haunted skyscraper on Christmas Eve. The skeptical young woman, Georgette Dubois, is horrified once confronted with the reality of the supernatural. She risks life and limb to escape her ghoulish prison, stranded on the 11th floor.",
+      "imagen": "https://img.yts.am/assets/images/movies/american_exorcist_2018/medium-cover.jpg",
+      "genero": "Comedy / Horror",
       "alquilada": false,
       "valoracion": 0,
       "cantidadAlquileres": 0
     },
     {
       "id": 4,
-      "titulo": "Final Fantasy Advent children",
-      "descripcion": "Esta película generada íntegramente por ordenador, es la continuación del videojuego de Square Enix; Final Fantasy VII y forma parte de una estrategía de la propia compañía para completar la historia de la saga. El argumento nos sitúa dos años después de Final Fantasy VII. Cloud Strife, el protagonista, vive solo en la iglesia de Aeris y está afectado por una extraña enfermedad, el GeoStigma, un virus que lo está matando poco a poco dejándole sin energía...",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSXjz0Dptp4G_kYgQf9VLt_PPGa0S1qBzp8od1-uKxZgNApCPQsg",
-      "genero": "Fantasia-Accion-Animacion",
+      "titulo": "Don't Go",
+      "descripcion": "Devastated by his daughter's death in a terrible accident, Ben becomes convinced that he can bring her back through a recurring dream. But is it just a dream? Or is Ben losing his mind?",
+      "imagen": "https://img.yts.am/assets/images/movies/dont_go_2018/medium-cover.jpg",
+      "genero": "Mystery",
       "alquilada": false,
       "valoracion": 0,
       "cantidadAlquileres": 0
     },
     {
       "id": 5,
-      "titulo": "El extraño mundo de Jack",
-      "descripcion": "El extraño mundo de Jack es – con todo derecho- un gran clásico contemporáneo, pionero en el arte de de hacer un musical animado, y de contar una historia oscura de tal modo, que resultara apta para todo público.",
-      "imagen": "https://cineyvideo.files.wordpress.com/2009/12/el_extrano_mundo_de_jack_1.jpg",
-      "genero": "Animacion-Musical",
+      "titulo": "Incredibles 2",
+      "descripcion": "While the Parr family has accepted its collective calling as superheroes, the fact remains that their special heroism is still illegal. After they are arrested after unsuccessfully trying to stop the Underminer, their future seems bleak. However, the wealthy Deavor siblings of Devtech offer new hope with a bold project to rehabilitate the public image and legal status of Supers, with Elastigirl being assigned on point to be the shining example. Now having agreed for now to stay at home to care of the kids, Mr. Incredible finds domestic life a daunting challenge, especially with baby Jack-Jack's newly emerged powers making him almost impossible to manage. However, Elastigirl soon has her own concerns dealing with the menace of a new supervillain, Screenslaver, who is wreaking havoc with his mind control abilities. Now, Elastigirl must solve the mystery of this enemy, who has malevolent designs on the world with the Parr family and friends key targets of this evil.",
+      "imagen": "https://img.yts.am/assets/images/movies/incredibles_2_2018/medium-cover.jpg",
+      "genero": "Action / Adventure / Animation / Comedy / Family / Sci-Fi",
       "alquilada": false,
       "valoracion": 0,
       "cantidadAlquileres": 0
     },
     {
       "id": 6,
-      "titulo": "El laberinto del fauno",
-      "descripcion": "Año 1944, posguerra española. Ofelia (Ivana Baquero) y su madre, Carmen (Ariadna Gil), que se encuentra en avanzado estado de gestación, se trasladan a un pequeño pueblo al que ha sido destinado el nuevo marido de Carmen, Vidal (Sergi López), un cruel capitán del ejército franquista por el que la niña no siente ningún afecto. La misión de Vidal es acabar con los últimos miembros de la resistencia republicana que permanecen escondidos en los montes de la zona. Otros personajes son: Mercedes (Maribel Verdú), el ama de llaves, y el médico (Álex Angulo) que se hará cargo del delicado estado de salud de Carmen. Una noche, Ofelia descubre las ruinas de un laberinto, y allí se encuentra con un fauno (Doug Jones), una extraña criatura que le hace una sorprendente revelación: ella es en realidad una princesa, la última de su estirpe, y los suyos la esperan desde hace mucho tiempo. Para poder regresar a su mágico reino, la niña deberá enfrentarse a tres pruebas. ",
-      "imagen": "https://pics.filmaffinity.com/el_laberinto_del_fauno-222302534-large.jpg",
-      "genero": "Terror-Guerra-Psicologico",
+      "titulo": "Seven in Heaven",
+      "descripcion": "Sixteen-year-old Jude discovers that each and every one of his fears is true.",
+      "imagen": "https://img.yts.am/assets/images/movies/seven_in_heaven_2018/medium-cover.jpg",
+      "genero": "Horror / Sci-Fi",
       "alquilada": true,
       "valoracion": 0,
       "cantidadAlquileres": 1
     }
-  ],
-  "usuarios": [
-    {
-      "id": 1,
-      "nombre": "Franco Jose Daniel",
-      "apellido": "Degano",
-      "usuario": "admin",
-      "contrasena": "admin",
-      "telefono": "3434536228",
-      "correo": "francodegano@hotmail.com",
-      "estado": ""
-    },
-    {
-      "id": 2,
-      "nombre": "Franco Jose Daniel",
-      "apellido": "Degano",
-      "usuario": "user",
-      "contrasena": "user",
-      "telefono": "3434536228",
-      "correo": "francodegano@hotmail.com",
-      "estado": ""
-    }
   ]
+  
 }
